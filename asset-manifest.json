@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codeitamarjr/crmre-react-landing/static/css/main.d16db92a.css",
-    "main.js": "/codeitamarjr/crmre-react-landing/static/js/main.15d9fd78.js",
-    "static/js/787.37373aa6.chunk.js": "/codeitamarjr/crmre-react-landing/static/js/787.37373aa6.chunk.js",
-    "index.html": "/codeitamarjr/crmre-react-landing/index.html",
-    "main.d16db92a.css.map": "/codeitamarjr/crmre-react-landing/static/css/main.d16db92a.css.map",
-    "main.15d9fd78.js.map": "/codeitamarjr/crmre-react-landing/static/js/main.15d9fd78.js.map",
-    "787.37373aa6.chunk.js.map": "/codeitamarjr/crmre-react-landing/static/js/787.37373aa6.chunk.js.map"
+    "main.css": "/crmre-react-landing/static/css/main.d16db92a.css",
+    "main.js": "/crmre-react-landing/static/js/main.88bdecfc.js",
+    "static/js/787.37373aa6.chunk.js": "/crmre-react-landing/static/js/787.37373aa6.chunk.js",
+    "index.html": "/crmre-react-landing/index.html",
+    "main.d16db92a.css.map": "/crmre-react-landing/static/css/main.d16db92a.css.map",
+    "main.88bdecfc.js.map": "/crmre-react-landing/static/js/main.88bdecfc.js.map",
+    "787.37373aa6.chunk.js.map": "/crmre-react-landing/static/js/787.37373aa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d16db92a.css",
-    "static/js/main.15d9fd78.js"
+    "static/js/main.88bdecfc.js"
   ]
 }
