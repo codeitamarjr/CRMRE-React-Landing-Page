@@ -2,6 +2,8 @@
 
 This a Landing Page for CRMRE. It is built using React and TailwindCSS.
 
+![CRMRE Landing Page](https://github.com/codeitamarjr/CRMRE-react-landing/blob/master/public/Real-Enquiries.png?raw=true "CRMRE Landing Page")
+
 ## Available Scripts
 
 In the project directory, you can run:
