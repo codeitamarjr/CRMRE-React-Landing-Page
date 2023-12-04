@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className="w-full mx-auto bg-white rounded-lg m-4 dark:bg-gray-800 dark:shadow-2xl">
+        <footer className="w-full mx-auto bg-white rounded-lg m-4 dark:bg-gray-800">
             <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
                 <div className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
                     Real Enquiries is a comprehensive solution for managing your real estate business. We offer a wide
@@ -23,9 +23,7 @@ const Footer = () => {
                     <li>
                         <a href="#" className="mr-4 hover:underline md:mr-6">Licensing</a>
                     </li>
-                    <li>
-                        <a href="#" className="hover:underline">Contact</a>
-                    </li> */}
+                    */}
                 </ul>
             </div>
         </footer>
