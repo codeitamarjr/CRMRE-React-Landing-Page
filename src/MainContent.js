@@ -34,11 +34,7 @@ function MainContent() {
 
                     <p className="mt-6 text-lg leading-7 text-gray-600 dark:text-gray-100">
                         Integrated with Ireland's top AD platform, Daft, we streamline the rental application process from Enquiry to Occupancy.
-                    </p>
-
-                    <p className="mt-6 text-lg leading-7 text-gray-600 dark:text-gray-100">
-                        Real Enquiries enables team members to manage all aspects of the real estate business — from lettings to accounting, sharing critical information effortlessly. Experience unparalleled ease in tracking enquiries, applications, documents, occupancy, and properties — all in one centralized location. Transform your operational workflow and elevate team collaboration across the board.
-                    </p>
+                    </p>                  
 
                     <div className="mt-10 flex items-center justify-center gap-x-6">
                         {/* <a href="#" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500">Get started</a>
