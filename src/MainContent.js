@@ -1,8 +1,29 @@
-import React from 'react';
-import screenshot from "./assets/screenshots/Real-Enquiries-Dashboard-Dark.png";
+import React, { useState, useEffect } from 'react';
+import screenshot1 from "./assets/screenshots/Real-Enquiries-Dashboard-Dark.png";
+import screenshot2 from "./assets/screenshots/Real-Enquiries-Dashboard.png";
+import screenshot3 from "./assets/screenshots/Real-Enquiries-Inbox Dark.png";
+import screenshot4 from "./assets/screenshots/Real-Enquiries-Inbox.png";
+import screenshot5 from "./assets/screenshots/Real-Enquiries-Profile Dark.png";
+import screenshot6 from "./assets/screenshots/Real-Enquiries-Profile.png";
+import screenshot7 from "./assets/screenshots/Real-Enquiries-Term Dark.png";
+import screenshot8 from "./assets/screenshots/Real-Enquiries-Term.png";
+import screenshot9 from "./assets/screenshots/Real-Enquiries-Term Dark.png";
+import screenshot10 from "./assets/screenshots/Real-Enquiries-Term.png";
+
 
 
 function MainContent() {
+    const images = [screenshot1, screenshot2, screenshot3, screenshot4, screenshot5, screenshot6, screenshot7, screenshot8, screenshot9, screenshot10];
+    const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+    useEffect(() => {
+        const intervalId = setInterval(() => {
+            setCurrentImageIndex(currentIndex => (currentIndex + 1) % images.length);
+        }, 4000);
+
+        return () => clearInterval(intervalId);
+    }, []);
+
     return (
         <div className="relative isolate px-6 pt-14 lg:px-8">
             <div className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -69,8 +90,16 @@ function MainContent() {
                             </p>
                         </div>
                         <div className='relative mt-16 h-80 lg:mt-8'>
-                            <img className='absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10' src={screenshot}
-                                alt='App screenshot' width='1824' height='1080' />
+                            {images.map((imageSrc, index) => (
+                                <img
+                                    key={index}
+                                    className={`absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10 transition-opacity duration-1000 ${currentImageIndex === index ? 'opacity-100' : 'opacity-0'}`}
+                                    src={imageSrc}
+                                    alt={`App Screenshot ${index + 1}`}
+                                    width='1824'
+                                    height='1080'
+                                />
+                            ))}
                         </div>
                     </div>
                 </div>
