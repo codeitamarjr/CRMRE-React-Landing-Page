@@ -1,8 +1,10 @@
-# CRMRE Landing Page
+# Real Enquiries Landing Page
 
-This a Landing Page for CRMRE. It is built using React and TailwindCSS.
+This a Landing Page for Real Enquiries. It is built using React and TailwindCSS.
 
-![CRMRE Landing Page](https://github.com/codeitamarjr/CRMRE-react-landing/blob/master/public/Real-Enquiries.png?raw=true "CRMRE Landing Page")
+![Real Enquiries Landing Page](https://github.com/codeitamarjr/CRMRE-react-landing/blob/master/public/Real-Enquiries.png?raw=true "Real Enquiries Landing Page")
+
+[![pages-build-deployment](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment)
 
 ## Available Scripts
 
