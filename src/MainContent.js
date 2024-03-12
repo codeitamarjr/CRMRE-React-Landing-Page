@@ -21,6 +21,7 @@ function MainContent() {
             setCurrentImageIndex(currentIndex => (currentIndex + 1) % images.length);
         }, 4000);
 
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         return () => clearInterval(intervalId);
     }, []);
 
