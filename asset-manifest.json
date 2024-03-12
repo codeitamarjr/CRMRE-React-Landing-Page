@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e224a67.css",
-    "main.js": "/static/js/main.7bcdfd30.js",
+    "main.css": "/static/css/main.43b654ef.css",
+    "main.js": "/static/js/main.710772b0.js",
     "static/js/453.0530a65a.chunk.js": "/static/js/453.0530a65a.chunk.js",
     "static/media/Real-Enquiries-Dashboard-Dark.png": "/static/media/Real-Enquiries-Dashboard-Dark.688396c2626941d28297.png",
     "index.html": "/index.html",
-    "main.7e224a67.css.map": "/static/css/main.7e224a67.css.map",
-    "main.7bcdfd30.js.map": "/static/js/main.7bcdfd30.js.map",
+    "main.43b654ef.css.map": "/static/css/main.43b654ef.css.map",
+    "main.710772b0.js.map": "/static/js/main.710772b0.js.map",
     "453.0530a65a.chunk.js.map": "/static/js/453.0530a65a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e224a67.css",
-    "static/js/main.7bcdfd30.js"
+    "static/css/main.43b654ef.css",
+    "static/js/main.710772b0.js"
   ]
 }
