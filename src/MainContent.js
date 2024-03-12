@@ -10,10 +10,9 @@ import screenshot8 from "./assets/screenshots/Real-Enquiries-Term.png";
 import screenshot9 from "./assets/screenshots/Real-Enquiries-Term Dark.png";
 import screenshot10 from "./assets/screenshots/Real-Enquiries-Term.png";
 
-
+const images = [screenshot1, screenshot2, screenshot3, screenshot4, screenshot5, screenshot6, screenshot7, screenshot8, screenshot9, screenshot10];
 
 function MainContent() {
-    const images = [screenshot1, screenshot2, screenshot3, screenshot4, screenshot5, screenshot6, screenshot7, screenshot8, screenshot9, screenshot10];
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
     useEffect(() => {
@@ -21,7 +20,6 @@ function MainContent() {
             setCurrentImageIndex(currentIndex => (currentIndex + 1) % images.length);
         }, 4000);
 
-        // eslint-disable-next-line react-hooks/exhaustive-deps
         return () => clearInterval(intervalId);
     }, []);
 
