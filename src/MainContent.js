@@ -14,7 +14,7 @@ function MainContent() {
 
             <div className="mx-auto max-w-3xl py-32 sm:py-48 lg:py-56">
                 <div className="hidden sm:mb-9 sm:flex sm:justify-center">
-                    <div className="rounded-full px-3 py-1 text-sm leading-6 text-gray-600 dark:text-gray-100 ring-1 ring-gray-900/10 hover:ring-gray-900/20 md:text-3xl">
+                    <div className="rounded-full px-3 py-1 text-sm leading-6 text-gray-600 dark:text-gray-100 ring-1 ring-gray-900/10 hover:ring-gray-500/20 dark:ring-indigo-900 md:text-3xl">
                         Your one stop solution to manage&nbsp;
                         <span className="text-indigo-500 inline-flex flex-col h-[calc(theme(fontSize.3xl)*theme(lineHeight.tight))] md:h-[calc(theme(fontSize.3xl)*theme(lineHeight.tight))] overflow-hidden">
                             <ul className="block animate-text-slide-5 text-left leading-tight">
