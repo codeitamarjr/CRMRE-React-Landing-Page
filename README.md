@@ -4,6 +4,8 @@ This a Landing Page for Real Enquiries. It is built using React and TailwindCSS.
 
 ![Real Enquiries Landing Page](https://github.com/codeitamarjr/CRMRE-react-landing/blob/master/public/Real-Enquiries.png?raw=true "Real Enquiries Landing Page")
 
+![Real Enquiries Landing Page Dark Mode](https://github.com/codeitamarjr/CRMRE-React-Landing/blob/master/public/Real-Enquiries-Dark.png?raw=true "Real Enquiries Landing Page Dark Mode")
+
 [![pages-build-deployment](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment)
 
 ## Available Scripts
