@@ -8,6 +8,8 @@ This a Landing Page for Real Enquiries. It is built using React and TailwindCSS.
 
 [![pages-build-deployment](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment)
 
+[![CI/CD](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/ci.yml/badge.svg)](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/ci.yml)
+
 ## Available Scripts
 
 The following scripts are available to run the app:
