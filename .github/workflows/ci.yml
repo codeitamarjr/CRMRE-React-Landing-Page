@@ -1,9 +1,10 @@
-name: CI
+name: CI/CD
 
 on: [push, pull_request]
 
 jobs:
-  build:
+ build_and_test:
+    name: Build and Test
     runs-on: ubuntu-latest
 
     steps:
@@ -24,3 +25,28 @@ jobs:
       run: npm test
       env:
         CI: true
+    
+    
+ deploy:
+    name: Deploy to GitHub Pages
+    needs: build_and_test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14'
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Build
+      run: npm run build
+
+    - name: Deploy
+      run: npm run deploy
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }} 
