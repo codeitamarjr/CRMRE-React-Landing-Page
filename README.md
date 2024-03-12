@@ -10,7 +10,7 @@ This a Landing Page for Real Enquiries. It is built using React and TailwindCSS.
 
 ## Available Scripts
 
-In the project directory, you can run:
+The following scripts are available to run the app:
 
 ### `npm start`
 
