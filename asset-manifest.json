@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e5cf9ee.css",
-    "main.js": "/static/js/main.e64e2940.js",
+    "main.css": "/static/css/main.84612a3f.css",
+    "main.js": "/static/js/main.1b860937.js",
     "static/js/453.0530a65a.chunk.js": "/static/js/453.0530a65a.chunk.js",
     "static/media/Real-Enquiries-Term.png": "/static/media/Real-Enquiries-Term.843f23999fbc03bd0ca6.png",
     "static/media/Real-Enquiries-Term Dark.png": "/static/media/Real-Enquiries-Term Dark.ca43e4c456db8d368c76.png",
@@ -12,12 +12,12 @@
     "static/media/Real-Enquiries-Profile.png": "/static/media/Real-Enquiries-Profile.d6057aea558ce1453827.png",
     "static/media/Real-Enquiries-Profile Dark.png": "/static/media/Real-Enquiries-Profile Dark.c029810d999404520b16.png",
     "index.html": "/index.html",
-    "main.7e5cf9ee.css.map": "/static/css/main.7e5cf9ee.css.map",
-    "main.e64e2940.js.map": "/static/js/main.e64e2940.js.map",
+    "main.84612a3f.css.map": "/static/css/main.84612a3f.css.map",
+    "main.1b860937.js.map": "/static/js/main.1b860937.js.map",
     "453.0530a65a.chunk.js.map": "/static/js/453.0530a65a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e5cf9ee.css",
-    "static/js/main.e64e2940.js"
+    "static/css/main.84612a3f.css",
+    "static/js/main.1b860937.js"
   ]
 }
