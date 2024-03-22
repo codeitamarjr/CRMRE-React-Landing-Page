@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="w-full mx-auto bg-white rounded-lg m-4 dark:bg-gray-800">
             <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
                 <div className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-                    Real Enquiries enables team members to manage all aspects of the real estate business — from lettings to accounting, sharing critical information effortlessly.
+                    Transform your operational workflow and elevate team collaboration across the board. Real Enquiries enables team members to manage all aspects of the real estate business — from lettings to accounting, sharing critical information effortlessly.
                 </div>
             </div>
             <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
