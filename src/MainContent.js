@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import icon from "./assets/icon.svg";
 import screenshot1 from "./assets/screenshots/Real-Enquiries-Dashboard-Dark.png";
 import screenshot2 from "./assets/screenshots/Real-Enquiries-Dashboard.png";
 import screenshot3 from "./assets/screenshots/Real-Enquiries-Inbox Dark.png";
@@ -50,7 +51,10 @@ function MainContent() {
                 </div>
 
                 <div className="text-center">
-                    <p className="text-7xl md:text-7xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.indigo.400),theme(colors.indigo.100),theme(colors.sky.400),theme(colors.fuchsia.400),theme(colors.sky.400),theme(colors.indigo.100),theme(colors.indigo.400))] bg-[length:200%_auto] animate-gradient">
+
+                    <p className="flex md:flex-row flex-col items-center justify-center text-7xl md:text-7xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.indigo.400),theme(colors.indigo.100),theme(colors.sky.400),theme(colors.fuchsia.400),theme(colors.sky.400),theme(colors.indigo.100),theme(colors.indigo.400))] bg-[length:200%_auto] animate-gradient">
+                        <img src={icon} alt="Real Enquiries" className="w-20 h-auto mb-4 md:mb-0" />
+                        <span className="sr-only">Real Enquiries</span>
                         Real Enquiries
                     </p>
 

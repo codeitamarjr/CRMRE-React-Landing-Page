@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b" x1="87.629%" x2="9.97%" y1="100%" y2="76.882%" gradientTransform="matrix(0.735981, 0.143949, -0.355697, 0.91362, 0.29979, 0.052059)">
+      <stop offset="0" stop-color="#F1F5F9" stop-opacity="0"/>
+      <stop offset="1" stop-color="#F1F5F9"/>
+    </linearGradient>
+    <filter id="a" width="141.4%" height="141.4%" x="-20.7%" y="-20.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#007BFF" d="M 19 33.5 L 5.943 33.548 L 4.53 31.886 L 4.5 19 C 4.5 10.992 10.992 4.5 19 4.5 C 27.008 4.5 33.5 10.992 33.5 19 C 33.5 27.008 27.008 33.5 19 33.5 Z M 19 28.5 C 26.298 28.031 30.884 20.583 27.227 14.25 C 25.53 11.311 22.394 9.5 19 9.5 C 11.687 9.5 9.872 16.493 10.773 23.75 C 11.436 29.096 15.51 28.725 19 28.5 Z" filter="url(#a)"/>
+    <path d="M 19 33.5 L 4.592 33.444 L 4.5 19 C 4.5 10.992 10.992 4.5 19 4.5 C 27.008 4.5 33.5 10.992 33.5 19 C 33.5 27.008 27.008 33.5 19 33.5 Z M 19 28.5 C 26.313 28.5 30.884 20.583 27.227 14.25 C 25.53 11.311 22.394 9.5 19 9.5 C 13.46 9.5 9.493 14.044 9.486 19.001 L 9.666 28.599 L 19 28.5 Z" fill="url(#b)"/>
+  </g>
+</svg>
