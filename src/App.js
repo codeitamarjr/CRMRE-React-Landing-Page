@@ -1,5 +1,5 @@
 import LandingPage from './LandingPage';
-
+import { clarity } from 'react-microsoft-clarity';
 
 function App() {
   return (
@@ -9,4 +9,5 @@ function App() {
   );
 }
 
+clarity.init('mbc689vhqb');
 export default App;
