@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import LandingPage from './LandingPage';
-import ConfirmationPage from './ConfirmationPage'; // Import the new component
+import ConfirmationPage from './ConfirmationPage';
 import { clarity } from 'react-microsoft-clarity';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Routes>
           <Route path="/" element={<LandingPage />} />
