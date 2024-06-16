@@ -1,6 +1,6 @@
 {
-  "name": "react-landing",
-  "version": "0.1.0",
+  "name": "real-enquiries-react-landing",
+  "version": "0.1.1",
   "private": true,
   "homepage": "https://realenquiries.com",
   "dependencies": {
