@@ -73,10 +73,10 @@ function MainContent() {
                 </div>
 
                 <div className="mx-auto max-w-2xl lg:text-center mb-12">
-                    <h2 className="text-base font-semibold leading-7 text-indigo-600">
+                    <h2 className="text-base font-semibold leading-7 text-indigo-600 dark:text-indigo-400">
                         Integrated with Ireland's top AD platform, Daft
                     </h2>
-                    <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+                    <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-300">
                         We streamline the rental application process from Enquiry to Occupancy
                     </p>
                 </div>
