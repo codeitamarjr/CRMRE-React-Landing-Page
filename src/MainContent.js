@@ -10,7 +10,6 @@ import screenshot7 from "./assets/screenshots/Real-Enquiries-Term Dark.png";
 import screenshot8 from "./assets/screenshots/Real-Enquiries-Term.png";
 import screenshot9 from "./assets/screenshots/Real-Enquiries-Term Dark.png";
 import screenshot10 from "./assets/screenshots/Real-Enquiries-Term.png";
-import { Link } from 'react-router-dom';
 import CEOWord from './CEOWord';
 
 const images = [screenshot1, screenshot2, screenshot3, screenshot4, screenshot5, screenshot6, screenshot7, screenshot8, screenshot9, screenshot10];
