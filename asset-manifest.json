@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.32711225.css",
-    "main.js": "/static/js/main.c8b13a90.js",
+    "main.css": "/static/css/main.1c27807c.css",
+    "main.js": "/static/js/main.e768786a.js",
     "static/js/453.3c9c05ed.chunk.js": "/static/js/453.3c9c05ed.chunk.js",
     "static/media/Real-Enquiries-Term.png": "/static/media/Real-Enquiries-Term.843f23999fbc03bd0ca6.png",
     "static/media/Real-Enquiries-Term Dark.png": "/static/media/Real-Enquiries-Term Dark.ca43e4c456db8d368c76.png",
@@ -13,12 +13,12 @@
     "static/media/Real-Enquiries-Profile Dark.png": "/static/media/Real-Enquiries-Profile Dark.c029810d999404520b16.png",
     "index.html": "/index.html",
     "static/media/icon.svg": "/static/media/icon.0c82c5676920b3fa0fff5edb33c7af34.svg",
-    "main.32711225.css.map": "/static/css/main.32711225.css.map",
-    "main.c8b13a90.js.map": "/static/js/main.c8b13a90.js.map",
+    "main.1c27807c.css.map": "/static/css/main.1c27807c.css.map",
+    "main.e768786a.js.map": "/static/js/main.e768786a.js.map",
     "453.3c9c05ed.chunk.js.map": "/static/js/453.3c9c05ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32711225.css",
-    "static/js/main.c8b13a90.js"
+    "static/css/main.1c27807c.css",
+    "static/js/main.e768786a.js"
   ]
 }
