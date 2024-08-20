@@ -61,7 +61,7 @@ function MainContent() {
                         </p>
 
                         <p className="mt-6 text-lg leading-7 text-gray-600 dark:text-gray-100">
-                            Revolutionize Your Real Estate Management with Less Manual Input and <span className="text-indigo-500">More Time</span> for What Matters.
+                            Revolutionize Your <span className="text-indigo-500">Real Estate Management</span> with Less Manual Input and <span className="text-indigo-500">More Time</span> for <span className="text-indigo-500">What Matters</span>.
                         </p>
 
                         <div className="mt-10 flex items-center justify-center gap-x-6">
