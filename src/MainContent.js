@@ -61,7 +61,7 @@ function MainContent() {
                         </p>
 
                         <p className="mt-6 text-lg leading-7 text-gray-600 dark:text-gray-100">
-                            Revolutionize Your Real Estate Management with Less Manual Input and More Time for What Matters.
+                            Revolutionize Your Real Estate Management with Less Manual Input and <span className="text-indigo-500">More Time</span> for What Matters.
                         </p>
 
                         <div className="mt-10 flex items-center justify-center gap-x-6">
@@ -71,19 +71,31 @@ function MainContent() {
                     </div>
 
                 </div>
-
-                <div className="mx-auto max-w-2xl lg:text-center mb-12">
-                    <h2 className="text-base font-semibold leading-7 text-indigo-600 dark:text-indigo-400">
-                        Integrated with Ireland's top AD platform, Daft
-                    </h2>
-                    <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-300">
-                        We streamline the rental application process from Enquiry to Occupancy
-                    </p>
-                </div>
-
             </div>
 
             <CEOWord />
+
+            <div className="relative isolate px-6 pt-14 lg:px-8">
+                <div className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+                    aria-hidden="true">
+                    <div className="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#4B77BE] to-[#1F4788] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+                        style={{ clipPath: "polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)" }}>
+                    </div>
+                </div>
+
+                <div className="mx-auto max-w-2xl lg:text-center mb-12 pt-12">
+                    <p className="mt-2 font-bold tracking-tight text-gray-900 sm:text-2xl dark:text-gray-300">
+                        Managing rental applications, documents, and tenant occupancy can be time-consuming and prone to errors.
+                    </p>
+                    <p className="mt-2 font-bold tracking-tight text-gray-900 sm:text-2xl dark:text-gray-300">
+                        Manual tasks eat up your time and lead to missed opportunities and frustrated clients.
+                    </p>
+                    <h4 className="mt-2 font-bold tracking-tight text-gray-900 sm:text-2xl dark:text-gray-300">
+                        With Real Enquiries, you can automate everything from enquiry responses to document generation, freeing up time for what really matters.
+                    </h4>
+                </div>
+
+            </div>
 
             <div className="relative isolate px-6 lg:px-8">
 
@@ -107,8 +119,7 @@ function MainContent() {
                             <div className='mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left'>
                                 <h2 className='text-3xl font-bold tracking-tight text-white sm:text-4xl'>Real Enquiries</h2>
                                 <p className='mt-6 text-lg leading-8 text-gray-300'>
-                                    Experience unparalleled ease in tracking enquiries with automatic response, applications with automatic background check integrated with RTB, documents generated with ease using templates, occupancy, and properties RTB compliance — all in one centralized location.<br />
-                                    Connect with DocuSign, Re-Leased, Xero or any API to streamline your workflow.
+                                    Effortlessly onboard clients, stay compliant, and reduce paperwork with automated tools designed to streamline every aspect of your property management.
                                 </p>
                             </div>
                             <div className='relative mt-16 h-80 lg:mt-8'>

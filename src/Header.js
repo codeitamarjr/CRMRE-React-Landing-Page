@@ -26,7 +26,7 @@ function Header() {
                         href="mailto:contact@realenquiries.com?subject=CRMRE: Contact&body=Tell me more about Real Enquiries!"
                         onClick={handleJoinWaitingList}
                         className="text-sm font-semibold leading-6">
-                        Join the Waiting List
+                        Get Early Access and <span className="text-indigo-500">Simplify Your Real Estate Management</span> Today!
                     </a>
                 </div>
             </nav>

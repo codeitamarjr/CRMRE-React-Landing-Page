@@ -1,9 +1,9 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders Join the Waiting List link', async () => {
+test('renders Get Early Access and Simplify Your Real Estate Management Today! link', async () => {
   render(<App />);
-  const linkElement = await screen.findByText(/Join the Waiting List/i);
+  const linkElement = await screen.findByText(/Get Early Access and Simplify Your Real Estate Management Today!/i);
   expect(linkElement).toBeInTheDocument();
 });
 
