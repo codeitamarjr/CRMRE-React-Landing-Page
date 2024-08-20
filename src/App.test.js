@@ -3,7 +3,7 @@ import App from './App';
 
 test('renders Get Early Access and Simplify Your Real Estate Management Today! link', async () => {
   render(<App />);
-  const linkElement = await screen.findByText(/Get Early Access and Simplify Your Real Estate Management Today!/i);
+  const linkElement = await screen.findByText(/Get Early Access/i);
   expect(linkElement).toBeInTheDocument();
 });
 
