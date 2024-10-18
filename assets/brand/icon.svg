@@ -2,8 +2,8 @@
 <svg viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="b" x1="87.629%" x2="9.97%" y1="100%" y2="76.882%" gradientTransform="matrix(0.735981, 0.143949, -0.355697, 0.91362, 0.29979, 0.052059)">
-      <stop offset="0" stop-color="#F1F5F9" stop-opacity="0"/>
-      <stop offset="1" stop-color="#F1F5F9"/>
+      <stop offset="0" stopColor="#F1F5F9" stop-opacity="0"/>
+      <stop offset="1" stopColor="#F1F5F9"/>
     </linearGradient>
     <filter id="a" width="141.4%" height="141.4%" x="-20.7%" y="-20.7%" filterUnits="objectBoundingBox">
       <feGaussianBlur in="SourceGraphic" stdDeviation="2.1"/>
