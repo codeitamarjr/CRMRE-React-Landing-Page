@@ -1,5 +1,5 @@
 import React from 'react';
-import icon from "./assets/icon.svg";
+import Icon from "./assets/brand/icon.svg";
 
 
 function CEOWord() {
@@ -10,7 +10,7 @@ function CEOWord() {
       <div className="mx-auto max-w-2xl lg:max-w-4xl py-24 px-4 sm:px-6 lg:px-8">
         <img
           className="mx-auto size-28 mb-10"
-          src={icon}
+          src={Icon}
           alt="Real Enquiries"
         />
         <figure className="mt-10">
