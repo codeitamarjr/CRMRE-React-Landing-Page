@@ -2,9 +2,8 @@
 
 This repository showcases the Real Enquiries Landing Page, a modern and responsive landing page built with React and TailwindCSS, demonstrating my proficiency in front-end development and modern web technologies.
 
-![Real Enquiries Landing Page](https://github.com/codeitamarjr/CRMRE-react-landing/blob/master/public/Real-Enquiries.png?raw=true "Real Enquiries Landing Page")
-
-![Real Enquiries Landing Page Dark Mode](https://github.com/codeitamarjr/CRMRE-React-Landing/blob/master/public/Real-Enquiries-Dark.png?raw=true "Real Enquiries Landing Page Dark Mode")
+![Real Enquiries Landing Page Dark Mode](./public/Real-Enquiries-Dark.png#gh-dark-mode-only)
+![Real Enquiries Landing Page](./public/Real-Enquiries.png.png#gh-light-mode-only)
 
 [![pages-build-deployment](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/codeitamarjr/CRMRE-React-Landing/actions/workflows/pages/pages-build-deployment)
 
