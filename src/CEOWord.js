@@ -30,7 +30,7 @@ function CEOWord() {
               <svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true" className="fill-gray-900 dark:fill-gray-100">
                 <circle cx="1" cy="1" r="1" />
               </svg>
-              <div className="text-gray-600 dark:text-gray-300">CEO of Real Enquiries</div>
+              <div className="text-gray-600 dark:text-gray-300">Creator of Real Enquiries</div>
             </div>
           </figcaption>
         </figure>
