@@ -2,7 +2,7 @@
   "name": "real-enquiries-react-landing",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://realenquiries.com",
+  "homepage": "https://codeitamarjr.github.io/CRMRE-React-Landing-Page",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
