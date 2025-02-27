@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fcddd6e.css",
-    "main.js": "/static/js/main.f51dda4f.js",
-    "static/js/453.3c9c05ed.chunk.js": "/static/js/453.3c9c05ed.chunk.js",
-    "static/media/Real-Enquiries-Term.png": "/static/media/Real-Enquiries-Term.843f23999fbc03bd0ca6.png",
-    "static/media/Real-Enquiries-Term Dark.png": "/static/media/Real-Enquiries-Term Dark.ca43e4c456db8d368c76.png",
-    "static/media/Real-Enquiries-Dashboard.png": "/static/media/Real-Enquiries-Dashboard.d92c197891d470438376.png",
-    "static/media/Real-Enquiries-Dashboard-Dark.png": "/static/media/Real-Enquiries-Dashboard-Dark.688396c2626941d28297.png",
-    "static/media/Real-Enquiries-Inbox.png": "/static/media/Real-Enquiries-Inbox.3a3aad085db6921202aa.png",
-    "static/media/Real-Enquiries-Inbox Dark.png": "/static/media/Real-Enquiries-Inbox Dark.5d81c8ef60cbd018232c.png",
-    "static/media/Real-Enquiries-Profile.png": "/static/media/Real-Enquiries-Profile.d6057aea558ce1453827.png",
-    "static/media/Real-Enquiries-Profile Dark.png": "/static/media/Real-Enquiries-Profile Dark.c029810d999404520b16.png",
-    "index.html": "/index.html",
-    "static/media/icon.svg": "/static/media/icon.0c82c5676920b3fa0fff5edb33c7af34.svg",
-    "main.9fcddd6e.css.map": "/static/css/main.9fcddd6e.css.map",
-    "main.f51dda4f.js.map": "/static/js/main.f51dda4f.js.map",
-    "453.3c9c05ed.chunk.js.map": "/static/js/453.3c9c05ed.chunk.js.map"
+    "main.css": "/CRMRE-React-Landing-Page/static/css/main.1f95c76d.css",
+    "main.js": "/CRMRE-React-Landing-Page/static/js/main.983a8484.js",
+    "static/js/453.3c9c05ed.chunk.js": "/CRMRE-React-Landing-Page/static/js/453.3c9c05ed.chunk.js",
+    "static/media/Real-Enquiries-Term.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Term.843f23999fbc03bd0ca6.png",
+    "static/media/Real-Enquiries-Term Dark.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Term Dark.ca43e4c456db8d368c76.png",
+    "static/media/Real-Enquiries-Dashboard.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Dashboard.d92c197891d470438376.png",
+    "static/media/Real-Enquiries-Dashboard-Dark.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Dashboard-Dark.688396c2626941d28297.png",
+    "static/media/Real-Enquiries-Inbox.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Inbox.3a3aad085db6921202aa.png",
+    "static/media/Real-Enquiries-Inbox Dark.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Inbox Dark.5d81c8ef60cbd018232c.png",
+    "static/media/Real-Enquiries-Profile.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Profile.d6057aea558ce1453827.png",
+    "static/media/Real-Enquiries-Profile Dark.png": "/CRMRE-React-Landing-Page/static/media/Real-Enquiries-Profile Dark.c029810d999404520b16.png",
+    "index.html": "/CRMRE-React-Landing-Page/index.html",
+    "static/media/icon.svg": "/CRMRE-React-Landing-Page/static/media/icon.0c82c5676920b3fa0fff5edb33c7af34.svg",
+    "main.1f95c76d.css.map": "/CRMRE-React-Landing-Page/static/css/main.1f95c76d.css.map",
+    "main.983a8484.js.map": "/CRMRE-React-Landing-Page/static/js/main.983a8484.js.map",
+    "453.3c9c05ed.chunk.js.map": "/CRMRE-React-Landing-Page/static/js/453.3c9c05ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fcddd6e.css",
-    "static/js/main.f51dda4f.js"
+    "static/css/main.1f95c76d.css",
+    "static/js/main.983a8484.js"
   ]
 }
